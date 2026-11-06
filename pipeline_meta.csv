@@ -1,0 +1,2 @@
+RunUTC,NewestPriceUTC,LastSettledDate,PlanDate,ForecastMadeUTC,ModelVersion,RunLocal,NewestPriceLocal,ForecastMadeLocal,MissingPriceHalfHours,MissingForecastHalfHours
+2026-11-06T22:10Z,2026-11-06T21:30Z,2026-11-05,2026-11-07,2026-11-06T22:10Z,lgbm-v1,6 Nov 22:10,6 Nov 22:00,6 Nov 22:10,24,0
