@@ -1,0 +1,16 @@
+RegionCode,RegionName,TileCol,TileRow,ShortName,Multiplier,PeakCharge,FitErrorP,FitCorrelation,FitDays,FitEnd
+A,East of England,3,4,East,1.9224,14.792,3.56,0.9267,28,2026-11-27
+B,East Midlands,2,4,E Mids,1.8219,15.629,3.38,0.9323,28,2026-11-27
+C,London,2,5,London,1.8219,13.629,3.38,0.9253,28,2026-11-27
+D,Merseyside and North Wales,0,3,N Wales,2.022,14.869,3.74,0.9241,28,2026-11-27
+E,West Midlands,1,4,W Mids,1.9212,13.674,3.54,0.9231,28,2026-11-27
+F,North East England,2,2,NE Eng,1.9212,13.674,3.54,0.9231,28,2026-11-27
+G,North West England,1,2,NW Eng,1.9212,13.674,3.54,0.9231,28,2026-11-27
+H,Southern England,1,5,South,1.9212,13.674,3.54,0.9231,28,2026-11-27
+J,South East England,3,5,SE Eng,2.0218,13.843,3.73,0.9208,28,2026-11-27
+K,South Wales,0,4,S Wales,2.0218,13.843,3.73,0.9208,28,2026-11-27
+L,South West England,0,5,SW Eng,2.1214,12.923,3.9,0.9147,28,2026-11-27
+M,Yorkshire,2,3,Yorks,1.8219,14.629,3.38,0.929,28,2026-11-27
+N,South Scotland,1,1,S Scot,1.9224,14.792,3.56,0.9267,28,2026-11-27
+P,North Scotland,1,0,N Scot,2.2208,13.968,4.08,0.9154,28,2026-11-27
+W,Wholesale market (no tariff),-1,-1,Wholesale,1.0,0.0,0.0,1.0,0,
